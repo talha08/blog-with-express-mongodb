@@ -3,12 +3,12 @@
 
 * [NodeJs](http://nodejs.org) >= 6.x 
 * [mongodb](http://mongodb.org)
-* ~~[imagemagick](http://www.imagemagick.org/script/index.php)~~
+
 
 ## Install
 
 ```sh
-$ git clone git://github.com/madhums/node-express-mongoose-demo.git
+$ git clone https://github.com/talha08/blog-with-express-mongodb.git
 $ npm install
 ```
 
