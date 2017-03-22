@@ -7,8 +7,8 @@
 6 silly lifecycle nodejs-express-mongoose-demo@4.0.0~prestart: no script for prestart, continuing
 7 info lifecycle nodejs-express-mongoose-demo@4.0.0~start: nodejs-express-mongoose-demo@4.0.0
 8 verbose lifecycle nodejs-express-mongoose-demo@4.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle nodejs-express-mongoose-demo@4.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/media/talha/Work Space/Node/node-express-mongoose-demo/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
-10 verbose lifecycle nodejs-express-mongoose-demo@4.0.0~start: CWD: /media/talha/Work Space/Node/node-express-mongoose-demo
+9 verbose lifecycle nodejs-express-mongoose-demo@4.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/media/talha/Work Space/Node/blog-with-express-mongodb/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+10 verbose lifecycle nodejs-express-mongoose-demo@4.0.0~start: CWD: /media/talha/Work Space/Node/blog-with-express-mongodb
 11 silly lifecycle nodejs-express-mongoose-demo@4.0.0~start: Args: [ '-c',
 11 silly lifecycle   'cross-env NODE_ENV=development ./node_modules/.bin/nodemon server.js' ]
 12 silly lifecycle nodejs-express-mongoose-demo@4.0.0~start: Returned: code: 126  signal: null
@@ -24,7 +24,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:885:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
 15 verbose pkgid nodejs-express-mongoose-demo@4.0.0
-16 verbose cwd /media/talha/Work Space/Node/node-express-mongoose-demo
+16 verbose cwd /media/talha/Work Space/Node/blog-with-express-mongodb
 17 error Linux 3.13.0-106-generic
 18 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
 19 error node v7.4.0

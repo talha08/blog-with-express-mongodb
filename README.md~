@@ -32,7 +32,7 @@ IMAGER_S3_BUCKET=AWS_S3_BUCKET
 then
 
 ```sh
-$ npm start
+$ node server.js
 ```
 
 Then visit [http://localhost:3000/](http://localhost:3000/)
