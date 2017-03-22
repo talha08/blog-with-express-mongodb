@@ -7,8 +7,8 @@
 module.exports = {
   db: 'mongodb://localhost/noobjs_dev',
   facebook: {
-    clientID: process.env.FACEBOOK_CLIENTID,
-    clientSecret: process.env.FACEBOOK_SECRET,
+    clientID: process.env.230861360722857,
+    clientSecret: process.env.11280b0a291cbe6c329aa61ff3f70097,
     callbackURL: 'http://localhost:3000/auth/facebook/callback'
   },
   twitter: {
